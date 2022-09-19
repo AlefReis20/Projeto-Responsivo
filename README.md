@@ -16,7 +16,7 @@
     
     Visualização no Mobile
     
-  <img src="https://github.com/AlefReis20/Projeto-Responsivo/blob/master/assets/desktop.png?raw=true"/>
+  <img src="https://github.com/AlefReis20/Projeto-Responsivo/blob/master/assets/mobile.png?raw=true"/>
     
     
   
